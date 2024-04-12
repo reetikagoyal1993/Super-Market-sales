@@ -23,3 +23,16 @@
 
  ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/8e057d63-7c11-4c29-93de-8a9ba1781ac1)
 
+- Step 6: Create month wise information from pivot table by using vlookup formula.
+- ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/b4bdb7fa-1086-429c-aa9c-facd73f63645)
+- ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/14e6ecb2-6797-41e0-8108-761c26fe27ed)
+- ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/f85cebf6-c714-496e-8f8a-840e6d91c983)
+
+
+
+  
+
+
+
+ 
+
