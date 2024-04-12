@@ -11,9 +11,14 @@
 
 ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/f6bd474a-3f1d-4729-ab19-b9dbef8cf0de)
 
-- Step 3: Creating Pivots table for visualization.
+- Step 3: Creating Pivots table for Showing sum of total selling price.
 
-![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/e47dca08-610f-4c78-b8f6-fe7c60225862)
+![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/a9816f30-25f7-48ec-b87a-e333bd1c9b32)
+
+For above pivot using this charts for dashboard.
+
+![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/c9ec3e51-2ccb-46e9-955a-07cad5f0e88c)
+
 
 - Step 4: Creating Slicers for Months,Year,Sales Type,Payment Mode.
 
