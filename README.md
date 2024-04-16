@@ -1,6 +1,6 @@
 # Excel Project- Super-Market-sales
 
-### Dataset & Dashboard Link : 
+### Dataset & Dashboard Link : https://github.com/reetikagoyal1993/Super-Market-sales/blob/main/Super%20Market%20Sales%20Dashboard.xlsx
 
 ## Steps to follow
 - Step 1: We have Master data in excel file.
