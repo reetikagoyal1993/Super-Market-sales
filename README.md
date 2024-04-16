@@ -62,7 +62,7 @@ For above pivot using this charts for dashboard.
  
   ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/bd7d5ff9-d5b5-4b1e-a3a7-e375a416c780)
   
-  ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/f2a848b4-feeb-42fc-9990-9d681448eb0a)
+  ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/561c0c45-66fc-46b3-8d4e-34f74c16b91c)
 
 - using developer tab for creating scroll bar.
 
