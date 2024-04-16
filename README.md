@@ -58,11 +58,11 @@ For above pivot using this charts for dashboard.
 
   ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/a9c4edd6-d01a-4981-b2af-935979a93fac)
 
-- Step 11:  Using offset formula for making group of 10 product.
+- Step 11:  Using offset formula for making group of Top 10 product.
  
   ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/bd7d5ff9-d5b5-4b1e-a3a7-e375a416c780)
   
-  ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/561c0c45-66fc-46b3-8d4e-34f74c16b91c)
+  ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/d1e99746-fad9-4e6a-96b5-f62e0fea400b)
 
 - using developer tab for creating scroll bar.
 
