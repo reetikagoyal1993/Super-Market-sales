@@ -116,7 +116,7 @@ For above pivot using this charts for dashboard.
  
  ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/912fc108-49bc-454f-a6ea-a74415a6e295)
 
-## Snapshot of Dashboard.
+# Snapshot of Dashboard.
 
 ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/06c0b92e-dcc0-47d2-8c8b-f5cac7283041)
 
