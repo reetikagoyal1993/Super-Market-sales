@@ -2,7 +2,7 @@
 
 ### Dataset & Dashboard Link : 
 
-## Main Objective
+## Steps to follow
 - Step 1: We have Master data in excel file.
 
 ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/132b5fc0-cc89-405e-9d9b-9e9f2566dde3)
@@ -30,8 +30,11 @@ For above pivot using this charts for dashboard.
 - Step 6: Create month wise information from pivot table by using vlookup formula.
 
   ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/b4bdb7fa-1086-429c-aa9c-facd73f63645)
+  
   ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/14e6ecb2-6797-41e0-8108-761c26fe27ed)
+  
   ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/f85cebf6-c714-496e-8f8a-840e6d91c983)
+  
   ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/5c606f11-21fc-47ca-8a40-fd6b5971bb25)
 
 - Create chart by using month wise data.
@@ -58,9 +61,12 @@ For above pivot using this charts for dashboard.
 - Step 11:  Using offset formula for making group of 10 product.
  
   ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/bd7d5ff9-d5b5-4b1e-a3a7-e375a416c780)
+  
   ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/f2a848b4-feeb-42fc-9990-9d681448eb0a)
 
 - using developer tab for creating scroll bar.
+
+ ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/cdecef97-06f0-4003-b610-468645ad86ff)
 
 - Step 12: Create pivot for category and sum of selling price.
  
@@ -68,7 +74,7 @@ For above pivot using this charts for dashboard.
 
 - again Using OFFSET and RANK formula for calculate Top Category.
  
- ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/df1e3a86-2140-424c-b9a1-20cc5f4ee441)
+  ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/df1e3a86-2140-424c-b9a1-20cc5f4ee441)
 
 - Step 13:Conncet all pivots table with slicers by using Reoprt Connection.
 
@@ -89,23 +95,32 @@ For above pivot using this charts for dashboard.
 - Step 16:Uisng Pivot for Payment Mode.
 
   ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/551af9cd-b032-4223-b2c8-253c5fe81d61)
+  
 -  Using Piechart for above pivot table.
+ 
   ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/d9c31caf-9082-4dea-aa45-f36e3ee92cae)
 
 - Step 17: For making vibrant dashoard we are using shapes for backgrounds.after that one by one adjust the whole charts and slicers in the shapes.
- ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/2e00ecd7-df98-4ba5-a087-c2a965247918)
+
+  ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/2e00ecd7-df98-4ba5-a087-c2a965247918)
 
 - Step 18: Display Total sales,Total Profit,and Profit% in Dashboard.
+ 
  ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/89adaf40-2413-4edc-9407-9735414dbc72)
 
 - Step 19: Display Top product and top category in Dashboard.
+
  ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/17f3e4d5-0d96-4592-90dd-1864610cf2f7)
 
 - Step 20: Making Header for Dashboard.
-  ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/912fc108-49bc-454f-a6ea-a74415a6e295)
+ 
+ ![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/912fc108-49bc-454f-a6ea-a74415a6e295)
 
-### Snapshot of Dashboard.
-![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/4ec73251-9537-44df-ae1e-d280e2e85d27)
+## Snapshot of Dashboard.
+
+![image](https://github.com/reetikagoyal1993/Super-Market-sales/assets/165877247/06c0b92e-dcc0-47d2-8c8b-f5cac7283041)
+
+
 
 
 
